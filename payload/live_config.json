@@ -1,0 +1,16 @@
+{
+  "cava": {
+    "color": "fire",
+    "interval_ms": 33,
+    "gain": 1.0,
+    "bars": 32,
+    "source": "loopback",
+    "device": ""
+  },
+  "cmatrix": {
+    "color": "cyan",
+    "interval_ms": 33,
+    "speed": 1.0,
+    "density": 1.0
+  }
+}
