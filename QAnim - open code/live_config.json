@@ -1,0 +1,51 @@
+{
+  "cava": {
+    "color": "fire",
+    "interval_ms": 33,
+    "gain": 1.0,
+    "bars": 32,
+    "source": "loopback",
+    "device": ""
+  },
+  "rain": {
+    "color": "ocean",
+    "interval_ms": 33,
+    "speed": 1.0,
+    "density": 1.0
+  },
+  "cmatrix": {
+    "color": "matrix",
+    "interval_ms": 33,
+    "speed": 1.0,
+    "density": 1.0
+  },
+  "lava": {
+    "color": "fire",
+    "interval_ms": 33,
+    "speed": 1.0,
+    "blobs": 6,
+    "heat": 1.0
+  },
+  "pixel": {
+    "color": "cyan",
+    "interval_ms": 33,
+    "speed": 1.0,
+    "scale": 20
+  },
+  "pipes": {
+    "color": "mint",
+    "interval_ms": 33,
+    "speed": 1.0,
+    "count": 3,
+    "length": 40
+  },
+  "pclock": {
+    "color": "snow",
+    "interval_ms": 200,
+    "tz": "Europe/Moscow",
+    "fmt": "HH:MM:SS",
+    "date": "1",
+    "date_fmt": "%a %b %d",
+    "offset": 0
+  }
+}

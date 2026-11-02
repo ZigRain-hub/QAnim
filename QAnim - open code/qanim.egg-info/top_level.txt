@@ -1,0 +1,8 @@
+cava
+cmatrix
+lava
+pclock
+pipes
+pixel
+qvis
+rain

@@ -1,0 +1,8 @@
+[console_scripts]
+cava = cava:main
+cmatrix = cmatrix:main
+lava = lava:main
+pclock = pclock:main
+pipes = pipes:main
+pixel = pixel:main
+rain = rain:main

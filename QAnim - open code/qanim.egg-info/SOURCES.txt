@@ -1,0 +1,15 @@
+cava.py
+cmatrix.py
+lava.py
+pclock.py
+pipes.py
+pixel.py
+qvis.py
+rain.py
+setup.py
+qanim.egg-info/PKG-INFO
+qanim.egg-info/SOURCES.txt
+qanim.egg-info/dependency_links.txt
+qanim.egg-info/entry_points.txt
+qanim.egg-info/requires.txt
+qanim.egg-info/top_level.txt

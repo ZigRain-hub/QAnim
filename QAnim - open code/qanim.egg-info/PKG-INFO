@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: qanim
+Version: 1.0.0
+Summary: QAnim (Terminal Visuals)
+Author: Lovec
+Requires-Python: >=3.8
+Requires-Dist: PySide6-Essentials
+Requires-Dist: numpy
+Requires-Dist: psutil
+Requires-Dist: pyaudiowpatch
+Requires-Dist: sounddevice
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
